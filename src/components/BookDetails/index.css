@@ -1,0 +1,38 @@
+/* index.css */
+
+/* Container for the book details */
+.book-details-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Book title */
+.book-details-container h1 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+/* Label for each book detail (Author, Genre, etc.) */
+.book-details-container p {
+    font-size: 1rem;
+    margin: 10px 0;
+    color: #555;
+}
+
+/* Styling for the strong tags */
+.book-details-container strong {
+    font-weight: 600;
+}
+
+/* Loading message */
+.loading-message {
+    font-size: 1.5rem;
+    color: #888;
+    text-align: center;
+    margin-top: 20px;
+}

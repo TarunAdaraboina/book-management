@@ -1,0 +1,16 @@
+.about-container {
+    padding: 20px;
+    background-color: #e9ecef;
+    border-radius: 8px;
+    height: 90vh;
+    width: 100vw;
+  }
+  
+  .about-container h1 {
+    color: #333;
+  }
+  
+  .about-container p {
+    color: #555;
+  }
+  
